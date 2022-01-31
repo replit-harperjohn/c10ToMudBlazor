@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "+zodyFh2YjE8nzXXmF6Blf/UshXrFrT4r2tG2fqRVIM=",
+  "Source": "mbFromC10",
+  "BasePath": "_content/mbFromC10",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "mbFromC10/wwwroot",
+      "Source": "mbFromC10",
+      "ContentRoot": "/home/runner/c10ToMudBlazor/wwwroot/",
+      "BasePath": "_content/mbFromC10",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/runner/.nuget/packages/mudblazor/6.0.2/staticwebassets/MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "/home/runner/.nuget/packages/mudblazor/6.0.2/staticwebassets/",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/runner/.nuget/packages/mudblazor/6.0.2/staticwebassets/MudBlazor.min.css"
+    },
+    {
+      "Identity": "/home/runner/.nuget/packages/mudblazor/6.0.2/staticwebassets/MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "/home/runner/.nuget/packages/mudblazor/6.0.2/staticwebassets/",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/runner/.nuget/packages/mudblazor/6.0.2/staticwebassets/MudBlazor.min.js"
+    },
+    {
+      "Identity": "/home/runner/c10ToMudBlazor/wwwroot/favicon.ico",
+      "SourceId": "mbFromC10",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/runner/c10ToMudBlazor/wwwroot/",
+      "BasePath": "_content/mbFromC10",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}
